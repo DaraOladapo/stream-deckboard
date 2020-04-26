@@ -14,8 +14,8 @@ Below I show an example of how I configured it to launch My Stream Timer with To
 
 `mystreamtimer://countdown/?topofhour`
 
-![alt text](images\configappextension.gif "Set in Deckboard")
+![alt text](images/configappextension.gif "Set in Deckboard")
 
 You can then launch from your mobile app and it pops up like seen below
-![alt text](images\streamtimerlaunch.gif "Stream timer lauched.")
+![alt text](images/streamtimerlaunch.gif "Stream timer lauched.")
 
