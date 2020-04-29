@@ -8,7 +8,7 @@ I use My Stream Timer by [James Montemagno](https://twitter.com/JamesMontemagno)
 
 I use Deckboard for managing my stream deck. You can find the download link [here](https://deckboard.app/).
 
-After installing My Stream Timer and the extension from [here](installers\streamtimerextension.installer.msi).
+After installing My Stream Timer and the extension from [here](installerprojects/streamtimerextension.installer/streamtimerextension.installer-SetupFiles/streamtimerextension.installer.msi).
 
 Below I show an example of how I configured it to launch My Stream Timer with Top of the Hour countdown argument.
 
