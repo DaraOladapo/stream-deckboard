@@ -10,7 +10,18 @@
     <Company>Dara Oladapo</Company>
     <Product>My Stream Timer Extension</Product>
     <Description>Use this app as an extension to My Stream Timer to launch parameters like topofhour into My Stream Timer.</Description>
-    <Copyright>Oladapo</Copyright>
+    <Copyright>Dara Oladapo</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://daraoladapo.github.io/stream-deckboard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DaraOladapo/stream-deckboard</RepositoryUrl>
+    <PackageTags>streaming extension</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
