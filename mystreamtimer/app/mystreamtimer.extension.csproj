@@ -3,6 +3,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>signing.pfx</AssemblyOriginatorKeyFile>
+    <Version>1.0.2</Version>
+    <Authors>Dara Oladapo</Authors>
+    <Company>Dara Oladapo</Company>
+    <Product>My Stream Timer Extension</Product>
+    <Description>Use this app as an extension to My Stream Timer to launch parameters like topofhour into My Stream Timer.</Description>
+    <Copyright>Oladapo</Copyright>
   </PropertyGroup>
 
 </Project>
